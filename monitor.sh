@@ -1,7 +1,7 @@
 #!/bin/bash
 
-POOL="maun"
-NET_IF="enp42s0"
+POOL="maun" # pool name
+NET_IF="enp42s0" # Adapter name
 INTERVAL=2
 MAX_DISKS=12    # Max number of disks to show
 MAX_ZFS_LINES=25
